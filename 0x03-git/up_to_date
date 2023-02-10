@@ -1,1 +1,1 @@
-git commit -m "update"
+echo 'update'>READEME.md
